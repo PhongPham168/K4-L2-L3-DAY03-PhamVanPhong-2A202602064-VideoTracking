@@ -138,7 +138,7 @@ Sửa trong `GUIDELINE_MINI.md`:
 ## 7. Tệp đã nộp
 
 - [x] `annotations/clip_01/gt.txt`
-- [ x] `annotations/clip_02/gt.txt`
+- [x] `annotations/clip_02/gt.txt`
 - [x] `evidence/pre-gold/clip_01/gt.txt` và `manifest.json`
 - [x] `GUIDELINE_MINI.md` 
 - [x] `outputs/eval_vs_gold.json`
